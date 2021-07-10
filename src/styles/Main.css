@@ -1,0 +1,16 @@
+.main {
+    position: relative;
+    height: 760px;
+}
+
+.left-side {
+    /*position: absolute;*/ /*有这一行，地图会和leftside内容覆盖*/
+    top: 0;
+    left: 0;
+    height: 760px;
+    padding: 20px;
+}
+
+.right-side {
+    height: 760px;
+}
